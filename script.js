@@ -1,7 +1,5 @@
 
 
-<<<<<<< HEAD
-=======
 function initMap() {
   //Map feature options
   var options = {
@@ -59,4 +57,3 @@ function initMap() {
 }
 
 
->>>>>>> branch1
